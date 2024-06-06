@@ -1,0 +1,42 @@
+.calBOdy{
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+}
+.inputfild{
+    height: 70px;
+    text-align: end;
+    width: 98%;
+    border: none;
+    border-radius: 12px;
+    font-size: 25px;
+    font-weight: 500;
+}
+.lay1{
+    margin: 3px;
+    width: 99%;
+    height: 60px;
+
+}
+.num_oper{
+    height: 97%;
+    width: 20%;
+    margin: 3px;
+}
+
+.num_operator{
+    height: 97%;
+    width: 26%;
+    margin: 5px;
+
+}
+.num_operator:hover{
+    background-color: rgb(74, 71, 71);
+    cursor: pointer;
+}
+.num_oper:hover{
+    background-color: rgb(96, 52, 52);
+    cursor: pointer;
+
+}
